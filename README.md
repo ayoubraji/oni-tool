@@ -1,2 +1,2 @@
-# oni_converter
-Convert oni files in rgb, rgb-d, depth and point clouds
+# oni-tool
+Extract rgb, rgb-d, depth and point clouds from oni file
